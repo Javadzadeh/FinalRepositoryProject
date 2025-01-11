@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PracticeFullStack\\FullStack\\Repository\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA067FE-E3C0-4097-BE0C-453414AA0DA2}|Repository\\Repository.csproj|d:\\practicefullstack\\fullstack\\repository\\repository\\models\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA067FE-E3C0-4097-BE0C-453414AA0DA2}|Repository\\Repository.csproj|solutionrelative:repository\\models\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA067FE-E3C0-4097-BE0C-453414AA0DA2}|Repository\\Repository.csproj|d:\\practicefullstack\\fullstack\\repository\\repository\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA067FE-E3C0-4097-BE0C-453414AA0DA2}|Repository\\Repository.csproj|solutionrelative:repository\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA067FE-E3C0-4097-BE0C-453414AA0DA2}|Repository\\Repository.csproj|d:\\practicefullstack\\fullstack\\repository\\repository\\models\\framworks\\contract\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA067FE-E3C0-4097-BE0C-453414AA0DA2}|Repository\\Repository.csproj|solutionrelative:repository\\models\\framworks\\contract\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AA067FE-E3C0-4097-BE0C-453414AA0DA2}|Repository\\Repository.csproj|d:\\practicefullstack\\fullstack\\repository\\repository\\models\\domainmodels\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AA067FE-E3C0-4097-BE0C-453414AA0DA2}|Repository\\Repository.csproj|solutionrelative:repository\\models\\domainmodels\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 155,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "D:\\PracticeFullStack\\FullStack\\Repository\\Repository\\Models\\Framworks\\Contract\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\Framworks\\Contract\\IPersonRepository.cs",
+              "ToolTip": "D:\\PracticeFullStack\\FullStack\\Repository\\Repository\\Models\\Framworks\\Contract\\IPersonRepository.cs",
+              "RelativeToolTip": "Repository\\Models\\Framworks\\Contract\\IPersonRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:47:34.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\PracticeFullStack\\FullStack\\Repository\\Repository\\Models\\DomainModels\\Person.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\DomainModels\\Person.cs",
+              "ToolTip": "D:\\PracticeFullStack\\FullStack\\Repository\\Repository\\Models\\DomainModels\\Person.cs",
+              "RelativeToolTip": "Repository\\Models\\DomainModels\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:46:46.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "D:\\PracticeFullStack\\FullStack\\Repository\\Repository\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "Repository\\Controllers\\PersonController.cs",
+              "ToolTip": "D:\\PracticeFullStack\\FullStack\\Repository\\Repository\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "Repository\\Controllers\\PersonController.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAHUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:33:07.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "D:\\PracticeFullStack\\FullStack\\Repository\\Repository\\Models\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Models\\Repositories\\PersonRepository.cs",
+              "ToolTip": "D:\\PracticeFullStack\\FullStack\\Repository\\Repository\\Models\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "Repository\\Models\\Repositories\\PersonRepository.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAAAG0AAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-11T20:32:22.408Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
